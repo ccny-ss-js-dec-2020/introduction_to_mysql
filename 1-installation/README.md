@@ -21,12 +21,10 @@
     * Type 'exit' to leave the mysql command line
   * You can view the video in the 'instructional_videos' folder
 
-## 4. Connect to your database through MySql Developer
+## 4. Connect to your database through MySql Developer. Once connected, move onto the next step, in the "2-first_sql" folder.
 * When you open up SQL Developer, you will get to this page. Your connection should look like the "Standard" Connection.
 ![home page](images/home.png "Home")
 * If you right click on the "Standard" connection, this is what the configuration should look like.
 ![connection configuration](images/connection_configuration.png "Connection Configuration")
 * It should look like this when you're connected.
 ![Connected](images/connected.png "Connected")
-
-## 5. Once connected, move onto the next step, in the "2-first_sql" folder

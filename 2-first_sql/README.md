@@ -1,4 +1,5 @@
 ## Where to Write SQL Language in MySql Developer
+* Write the SQL Language where the red box in the picture is
 * ![Where to Write SQL](images/where_to_write_sql.png "Where to Write SQL")
 
 ## .sql Files
