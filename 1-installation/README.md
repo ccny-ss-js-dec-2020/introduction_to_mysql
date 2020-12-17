@@ -9,6 +9,7 @@
 * mac:
   * Using your terminal:
     * Download homebrew and install mysql server. Follow The first two steps (Install Homebrew & Install MySQL) in the Instructions: https://gist.github.com/operatino/392614486ce4421063b9dece4dfe6c21
+    * What is Homebrew? -> https://brew.sh/
     * If you have an older mac, here is a doc for installing the older version of mysql: https://gist.github.com/benlinton/d24471729ed6c2ace731
 * windows:
   * https://go.microsoft.com/fwlink/?linkid=866662
