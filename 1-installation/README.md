@@ -19,5 +19,9 @@
     * type ```CREATE DATABASE <your database name>```
 
 ## 4. Connect to your database through MySql Developer
-* ![home page](home.png "Home")
-* ![connection configuration](connection_configuration.png "Connection Configuration")
+* When you open up SQL Developer, you will get to this page. Your connection should look like the "Standard" Connection.
+<br>
+![home page](home.png "Home")
+* If you right click on the "Standard" connection, this is what the configuration should look like.
+<br>
+![connection configuration](connection_configuration.png "Connection Configuration")
