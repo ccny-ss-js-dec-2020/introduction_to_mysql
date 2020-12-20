@@ -47,5 +47,29 @@ CREATE TABLE users (
 	For the 'password' column, im inserting a record with a value of "whatever"
 
 	View the 'sql_insert_record_to_table.mov' to see how it's done in sql developer
+	
+	This is the "CREATE" of CRUD
 */
 INSERT INTO users (first_name, last_name, email, username, password) VALUES ("Jared", "Thomas", "jjthom87@yahoo.com", "jjthom87", "whatever");
+
+/*
+	Selecting all of the columns from all of the records in the users table
+	* = "all columns"
+	
+	This is the "READ" of CRUD
+*/
+SELECT * FROM users
+
+/*
+	Updating the value of the first_name column to be "Jimmy" for all of the records where the first_name column equals "Jared"
+	
+	This is the "UPDATE" of CRUD
+*/
+UPDATE users SET first_name='Jared' where first_name='Jimmy'
+
+/*
+	Deleting all of the records that have a first_name column value of "Jimmy"
+
+	This is the "DELETE" of CRUD
+*/
+DELETE FROM users WHERE first_name='Jimmy'
