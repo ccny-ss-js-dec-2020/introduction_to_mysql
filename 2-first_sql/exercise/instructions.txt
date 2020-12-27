@@ -5,3 +5,8 @@ In MySQL Developer:
   4. Get the record(s) that you just added to that Table
   5. Update field(s) for the record(s) that you added to the Table
   6. Delete record(s) from the Table
+
+Ideas for Tables:
+* Table Name: animals, Columns: name, species, type, etc.
+* Table Name: tvShows, Columns: name, years run, plot, etc.
+* Table Name: usCities, Columns: name, population, population density, etc.
