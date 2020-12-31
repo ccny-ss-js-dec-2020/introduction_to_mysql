@@ -43,14 +43,14 @@ CREATE TABLE users (
 	For the 'first_name' column, im inserting a record with a value of "Jared"
 	For the 'last_name' column, im inserting a record with a value of "Thomas"
 	For the 'email' column, im inserting a record with a value of "jjtho87@yahoo.com"
-	For the 'username' column, im inserting a record with a value of "jjthom87"
+	For the 'username' column, im inserting a record with a value of "jjtho87"
 	For the 'password' column, im inserting a record with a value of "whatever"
 
 	View the 'sql_insert_record_to_table.mov' to see how it's done in sql developer
 
 	This is the "CREATE" of CRUD
 */
-INSERT INTO users (first_name, last_name, email, username, password) VALUES ("Jared", "Thomas", "jjthom87@yahoo.com", "jjthom87", "whatever");
+INSERT INTO users (first_name, last_name, email, username, password) VALUES ("Jared", "Thomas", "jjtho87@yahoo.com", "jjtho87", "whatever");
 
 /* Inserting another record. You can insert as many records as you want to any table */
 INSERT INTO users (first_name, last_name, email, username, password) VALUES ("Bob", "Saget", "bobsaget@yahoo.com", "bobsaget", "bobsaget");
