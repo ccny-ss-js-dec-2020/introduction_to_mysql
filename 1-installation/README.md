@@ -17,7 +17,7 @@
 ## 3. Creating a Database using the terminal or git bash
   * Using your terminal (mac) or git bash (windows):
     * type ```mysql -u root -p```, press enter when it prompts for a password.
-    * type ```CREATE DATABASE <your database name>;```
+    * type ```CREATE DATABASE first_sql;```
     * Don't forget the semi-colon at the end. All SQL queries end in a semi-colon.
     * Type 'exit' to leave the mysql command line
   * You can view the video in the 'instructional_videos' folder
