@@ -6,8 +6,8 @@
 */
 
 /*
-	Creating table in the database that i created in the step before this
-	My database is named first_sql.
+	Creating table in the database that i created in the step before this.
+	Your database should be named 'first_sql' as in the previous lesson.
 
 	The 'USE first_sql' command is telling my database server that i am going
 	to interact with the 'first_sql' database
